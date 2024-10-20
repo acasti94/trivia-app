@@ -20,7 +20,7 @@ onMounted(async () => {
     answers.value.push({
       id: answers.value.length,
       correct: false,
-      answers: wrong_answer
+      answer: wrong_answer
     })
 
   })
